@@ -8,7 +8,7 @@ last_name: Ryzhkova
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦥
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,5 +66,5 @@ email: 'ryzhkova.ulya@gmail.com'
 highlight_name: true
 ---
 
-Ulyana Ryzhkova is a mathematics student at RUDN.
+Hello, I am Ulyana Ryzhkova! I am a mathematics student at RUDN. In my free time I enjoy customizing clothing, drawing and trying new make-up looks :)
 {style="text-align: justify;"}
