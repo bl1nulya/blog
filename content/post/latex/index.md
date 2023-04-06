@@ -12,6 +12,30 @@ lastMod: '2023-04-06T00:00:00Z'
 image:
   caption: ''
   focal_point: ''
+  
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
+authors:
+  - Ulyana Ryzhkova
+
+tags:
+  - Academic
+
+categories:
+  - Demo
+---
 ---
 
 # LaTeX

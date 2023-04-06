@@ -18,11 +18,11 @@ sections:
       items:
         - name: Mathematics
           description: 40%
-          icon: ruler-triangle
+          icon: pencil
           icon_pack: fas
         - name: Clothes making
           description: 50%
-          icon: shirt-running
+          icon: scissors
           icon_pack: fas
         - name: Programming
           description: 40%
